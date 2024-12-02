@@ -1,3 +1,8 @@
+# **Yelp Review Sentiment Analysis**
+
+## **About the Project**
+This project focuses on performing sentiment analysis on Yelp reviews. Users rate their experiences with a 1 to 5-star rating system, and this data is utilized to classify the reviews using machine learning and natural language processing (NLP) techniques. The goal is to derive meaningful insights into customer satisfaction and provide data-driven recommendations for improving service quality.
+
 ## **Objectives**
 1. Process and clean Yelp review text data for analysis.
 2. Use Natural Language Processing (NLP) techniques for sentiment extraction.
